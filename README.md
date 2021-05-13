@@ -1,4 +1,4 @@
-## Opa!! Sou Ronaldo Gomes 👊
+## Hi!! I am Ronaldo Gomes 👊
 ![Twitter Follow](https://img.shields.io/twitter/follow/rongeek?style=flat-square)
 ![Twitch](https://img.shields.io/twitch/status/rongeek?style=flat-square)
 
