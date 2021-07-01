@@ -7,7 +7,7 @@
 
 * 💜  Today I work at the Summit-BRA as a Tech Lead.
 * 🤓  I participate in the community [Nerdzão](https://www.meetup.com/pt-BR/Nerdzao/).
-* 😀  I am currently working on a project for a virtual motoring community, I created a website so that we can control and manage our races [![e-racefront](https://badgen.net/badge/project/e-racebrasil-frontend?icon=github&label)](https://github.com/Ron-99/f1-league-frontend) [![e-raceback](https://badgen.net/badge/project/e-racebrasil-backend?icon=github&label)](https://github.com/Ron-99/f1-league-backend)
+* 😀  I am currently working on a project for a virtual motoring community, I created a website so that we can control and manage our races [![e-racefront](https://badgen.net/badge/project/e-racebrasil-frontend?icon=github&label)](https://github.com/Ron-99/f1-league-frontend) [![e-raceapi](https://badgen.net/badge/project/e-racebrasil-api?icon=github&label)](https://github.com/Ron-99/e-racebrasil-api)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ron-99&theme=radical&count_private=true&show_icons=true)
