@@ -4,6 +4,7 @@
 
 **I'm a Senior Developer, I love new technologies and I love to solve programming logic problems**  
 
+![My Skills](https://skillicons.dev/icons?i=aws,ts,js,react,nodejs&perline=5)
 
 * 💜  Today I work at the Catho as a Senior Developer.
 * 🤓  I participate in the community [Nerdzão](https://www.meetup.com/pt-BR/Nerdzao/).
